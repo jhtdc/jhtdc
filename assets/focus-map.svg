@@ -1,0 +1,52 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Focus map</title>
+  <desc id="desc">A three-lane map showing AI for operators, care infrastructure, and creative systems connected by human-centered AI systems.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B0F14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="154" y1="106" x2="1047" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.5" stop-color="#A7F3D0"/>
+      <stop offset="1" stop-color="#FDE68A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#panel)"/>
+  <rect x="28" y="28" width="1144" height="304" rx="18" stroke="#27303B"/>
+
+  <text x="72" y="82" fill="#F9FAFB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="700">One thesis, three applied lanes</text>
+  <text x="72" y="112" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15">Human-centered AI systems for complex real-world work.</text>
+
+  <path d="M318 208H882" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M600 166V252" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="600" cy="208" r="52" fill="#0B0F14" stroke="#A7F3D0" stroke-width="2"/>
+  <text x="600" y="202" text-anchor="middle" fill="#F9FAFB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="700">Human-centered</text>
+  <text x="600" y="224" text-anchor="middle" fill="#A7F3D0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="700">AI systems</text>
+
+  <g>
+    <rect x="104" y="154" width="260" height="108" rx="14" fill="#111827" stroke="#303A46"/>
+    <circle cx="142" cy="188" r="13" fill="#7DD3FC" opacity="0.82"/>
+    <text x="170" y="194" fill="#F9FAFB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">AI for operators</text>
+    <text x="132" y="226" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Agent workflows, research,</text>
+    <text x="132" y="247" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">decision tools, internal systems.</text>
+  </g>
+
+  <g>
+    <rect x="470" y="66" width="260" height="84" rx="14" fill="#111827" stroke="#303A46"/>
+    <circle cx="508" cy="100" r="13" fill="#A7F3D0" opacity="0.82"/>
+    <text x="536" y="106" fill="#F9FAFB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">Care infrastructure</text>
+    <text x="498" y="132" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Coordination, services, impact.</text>
+  </g>
+
+  <g>
+    <rect x="836" y="154" width="260" height="108" rx="14" fill="#111827" stroke="#303A46"/>
+    <circle cx="874" cy="188" r="13" fill="#FDE68A" opacity="0.88"/>
+    <text x="902" y="194" fill="#F9FAFB" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">Creative systems</text>
+    <text x="864" y="226" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Music, storytelling, tools,</text>
+    <text x="864" y="247" fill="#AAB4C0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">interfaces with more feeling.</text>
+  </g>
+
+  <text x="72" y="308" fill="#748091" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">The domains differ. The operating question stays the same: how can AI help people coordinate, decide, care, and create better?</text>
+</svg>
