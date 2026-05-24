@@ -2,18 +2,6 @@
 
 **Building human infrastructure for the intelligence age.**
 
-Founder, strategist, and builder working on human-centered AI systems for complex real-world work.
+Building, buying, and investing in systems that make real-world businesses run with more intelligence and less drag.
 
-Most of the useful stuff is in private repos right now. For now, the green dots are the signal.
-
-<!--
-Future structure:
-
-## Public Work
-
-## Field Notes
-
-## Selected Builds
-
-## Contact
--->
+Exploring the intersection of AI agents, automation, care infrastructure, and durable operating companies.
